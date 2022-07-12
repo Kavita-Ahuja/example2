@@ -1,3 +1,4 @@
+print('first line')
 a=10
 print('hello from a')
 print(a)
